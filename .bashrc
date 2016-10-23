@@ -130,4 +130,4 @@ export TERM=screen-256color
 
 alias ..='cd ..'
 
-export PATH=/home/leo/bin:/home/leo/bin:/home/leo/bin:/home/leo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/leo/bin:/home/leo/bin/pidcat:/home/leo/Android/Sdk/tools:/home/leo/Android/Sdk/build-tools/23.0.3:/home/leo/Android/Sdk/platform-tools:/snap/bin:/home/leo/bin:/home/leo/bin/pidcat:/home/leo/Android/Sdk/tools:/home/leo/Android/Sdk/build-tools/23.0.3:/home/leo/Android/Sdk/platform-tools:/home/leo/.vimpkg/bin:/home/leo/.vimpkg/bin:/home/leo/.vimpkg/bin
+export PATH=~/bin:~/bin:~/bin:~/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:~/bin:~/bin/pidcat:~/Android/Sdk/tools:~/Android/Sdk/build-tools/23.0.3:~/Android/Sdk/platform-tools:/snap/bin:~/bin:~/bin/pidcat:~/Android/Sdk/tools:~/Android/Sdk/build-tools/23.0.3:~/Android/Sdk/platform-tools:~/.vimpkg/bin:~/.vimpkg/bin:~/.vimpkg/bin
