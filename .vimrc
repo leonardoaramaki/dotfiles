@@ -11,6 +11,7 @@ set expandtab
 " show line numbers
 set number
 set laststatus=2
+let NERDTreeShowHidden=1
 let g:airline_theme='tomorrow'
 let g:airline#extensions#hunks#enabled=0
 let g:airline#extensions#branch#enabled=1
